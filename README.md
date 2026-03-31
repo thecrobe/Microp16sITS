@@ -1,4 +1,4 @@
-Plant Rhizosphere Microbiomes and Root Architecture (In Review)
+Plant Rhizosphere Microbiomes and Root Architecture (Accepted)
 
 This repository contains data and analysis workflows examining how plant root architecture and host identity shape rhizosphere microbial community composition. 
 The project integrates root phenotyping with bacterial and fungal community profiling to test the relative importance of plant traits, species identity, and phylogenetic relatedness in structuring rhizosphere microbiomes.
